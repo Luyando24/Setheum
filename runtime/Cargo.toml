@@ -3,7 +3,7 @@ authors = ['Setheum Labs <https://github.com/Setheum-Labs>']
 edition = '2018'
 homepage = 'https://setheum.xyz'
 license = 'Apache-2.0 License'
-name = 'node-template-runtime'
+name = 'setheum-runtime'
 repository = 'https://github.com/substrate-developer-hub/substrate-node-template/'
 version = '2.0.0'
 
